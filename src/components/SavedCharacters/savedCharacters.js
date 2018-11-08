@@ -1,0 +1,1 @@
+import './savedCharacters.scss';
